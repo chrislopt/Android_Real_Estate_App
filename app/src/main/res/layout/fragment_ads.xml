@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/backgroundeight">
 
-    <ImageView
+    <!--<ImageView
         android:id="@+id/logo"
         android:layout_width="80dp"
         android:layout_height="60dp"
@@ -18,7 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/logo" />
+        app:srcCompat="@drawable/logo" />-->
 
     <TextView
         android:id="@+id/textView5"

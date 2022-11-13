@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">SDA_A5_Real_Estate_App_JasmineKhalimova</string>
+    <string name="app_name">Roomie</string>
     <string name="welcome_title">Welcome To ReMax</string>
     <string name="create_new_account">Create New Account</string>
     <string name="fullName">Full Name</string>
@@ -47,9 +47,9 @@
     <string name="adImage">TODO</string>
 
     <string name="contactSection">Contact Us</string>
-    <string name="officeAddress">Castleforbes Square, Dublin 1, Ireland</string>
-    <string name="call_us">Tell: <a href="tel:+3531234987"> +353 1234987</a></string>
-    <string name="email_us">Email:<a href="info@remax.com"> info@remax.com</a></string>
+    <string name="officeAddress">Antiguo Cuscatlan, La Libertad, El Salvador</string>
+    <string name="call_us">Tell: <a href="+503 7148-0000"> +503 7148-0000</a></string>
+    <string name="email_us">Email:<a href="info@atlasRoomie.com"> info@atlasRoomie.com</a></string>
     <string name="lgo">logo</string>
     <string name="officeMap">officeMap</string>
 
